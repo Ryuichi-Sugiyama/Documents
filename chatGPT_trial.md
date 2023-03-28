@@ -16,7 +16,7 @@
 下記のURLより、chatGPTのトップページに移動する。下のような画面が表示されるので、"Try ChatGPT"をクリックする。
 ![top](chatGPT_top.png)  
 初めてのアクセス時は、以下のようにLog inまたはSign upの画面が表示されるので、未登録の場合は登録する。メールアドレスと電話番号が必要になる。GoogleやMicrosoftのIDでも登録可能である。登録手順は一般的なものであるため、説明は割愛する。
-![signup](chatGPT_signup.png)
+![signup](chatGPT_signup.png)  
 登録が完了し、ログインすると以下のような画面となる。下中央部に入力することによってチャットが開始される。左側ペイン(赤枠部分)に、過去の対話履歴が表示される。
 ![start](chatGPT_start.png)  
 以上で登録は完了である。
