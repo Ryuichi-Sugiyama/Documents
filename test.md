@@ -14,13 +14,14 @@
 ***
 2. 登録方法
 下記のURLより、chatGPTのトップページに移動する。下のような画面が表示されるので、"Try ChatGPT"をクリックする。
-![top](.\chatGPT_top.png)
+![top](chatGPT_top.png)
 初めてのアクセス時は、以下のようにLog inまたはSign upの画面が表示されるので、未登録の場合は登録する。メールアドレスと電話番号が必要になる。GoogleやMicrosoftのIDでも登録可能である。登録手順は一般的なものであるため、説明は割愛する。
-![signup](.\chatGPT_signup.png)
+![signup](chatGPT_signup.png)
 登録が完了し、ログインすると以下のような画面となる。下中央部に入力することによってチャットが開始される。左側ペイン(赤枠部分)に、過去の対話履歴が表示される。
-![start](.\chatGPT_start.png)
+![start](chatGPT_start.png)
 以上で登録は完了である。
+*****
 3. IT的な質問をしてみる
 恐らく日常的な業務に最も役に立つであろう、IT的な質問をしてみました。
 ①最初は、Excelの表をマージするPowerShellのプログラム。結果として期待したプログラムではありませんでしたが、何度も対話したら、より完成度の高いものになるように思います。ImportExcelというモジュールは初めて知ったので、勉強にはなりました。
-![chat1](.\chatGPT_chat1.png)
+![chat1](chatGPT_chat1.png)
